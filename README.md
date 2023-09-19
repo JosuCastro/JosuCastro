@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JosuCastro
+### Hi there, I’m @JosuCastro 👋 
 - 🖥️ I’m currently learning Software Engineer in college
 - 🌴 I'm from Costa Rica, so hi world!
 
